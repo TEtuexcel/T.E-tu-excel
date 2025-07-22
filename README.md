@@ -44,9 +44,8 @@
 
   <section id="galeria">
     <h2>Galería</h2>
-    <p>(  
 
-https://github.com/user-attachments/assets/abf7c3b8-3053-49fa-a508-a81df5f34ef4)
+    https://github.com/user-attachments/assets/abf7c3b8-3053-49fa-a508-a81df5f34ef4)
 
     </p>
   </section>
