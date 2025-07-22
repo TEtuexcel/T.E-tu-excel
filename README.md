@@ -44,7 +44,11 @@
 
   <section id="galeria">
     <h2>Galería</h2>
-    <p>(Aquí podrías mostrar capturas de tus trabajos.)</p>
+    <p>(  
+
+https://github.com/user-attachments/assets/abf7c3b8-3053-49fa-a508-a81df5f34ef4)
+
+    </p>
   </section>
 
   <section id="blog">
